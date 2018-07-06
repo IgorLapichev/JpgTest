@@ -1,0 +1,6 @@
+
+How to use:
+jpeg_test inFile outFile quality
+
+example:
+jpeg_test in.jpg out.jpg 100
